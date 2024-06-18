@@ -16,7 +16,7 @@
 
 ## Instructions to Run
 
-1. Clone the repository: 
+1. Clone the repository: https://github.com/Sangameshwar29hatti/api-server-assignment
 2. Install dependencies: `npm install`
 3. Start the server: `node server.js`
 4. Access GraphQL endpoint: `http://localhost:3000/graphql`
